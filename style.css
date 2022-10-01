@@ -1,0 +1,33 @@
+h1, p{
+    margin-left: 200px;
+}
+h1 {
+    font-size: 70px;
+}
+p {
+    font-size: 40px;
+}
+span {
+    color: firebrick;
+}
+a {
+    text-decoration: none;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(67, 207, 153);
+}
+nav ul li {
+    border: 1px solid rgb(67, 207, 153);
+    padding: 10px;
+    list-style-type: none;
+    display: inline;
+}
+
+img {
+    height: 300px;
+    width: 450px;
+}
